@@ -1,0 +1,27 @@
+body{
+    background-color: white;
+}
+.container{
+    background-color: gray;
+    width: 60%;
+    margin: 0 auto;
+    padding: 15px;
+}
+form{
+    display: flex;
+    width: 90%;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+label{
+    width: 100%;
+}
+h1{
+    width: 100%;
+}
+
+input{
+    width: 90%;
+    padding: 10px;
+    margin: 10px 0px;
+}
